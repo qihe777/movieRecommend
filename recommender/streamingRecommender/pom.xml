@@ -12,7 +12,7 @@
     <artifactId>streamingRecommender</artifactId>
 
     <properties>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <elasticsearch.version>7.3.2</elasticsearch.version>
     </properties>
 
