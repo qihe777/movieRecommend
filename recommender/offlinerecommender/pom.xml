@@ -12,7 +12,7 @@
     <artifactId>offlinecommender</artifactId>
 
     <properties>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <jblas.version>1.2.4</jblas.version>
     </properties>
 
